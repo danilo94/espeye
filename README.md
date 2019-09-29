@@ -1,2 +1,4 @@
 # espeye
-adafruit Spooky eye with PIR sensor
+
+
+Modificação do projeto Spooky Eye da Adafruit integrando com sensor PIR + Telegram
